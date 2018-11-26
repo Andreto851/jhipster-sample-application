@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YTcxNWNiODQ4NTFkNDlkNTY0YzU0Mzc4M2VhZjFlYWM3NmY3OGZiYmUzNWNlNDM3OGVlNzkyMjUxYTdhODBjOWJhYmQyMWM5YjQ2OTgxOTE2MTNjMjA0NGEwOWYyZWFiMmZmMGZlNTZiZTk3OTQwYzFlYmU1N2ViNGI1MDRiMWI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Andreto851",
+  "repository-name": "jhipster-sample-application"
+}
